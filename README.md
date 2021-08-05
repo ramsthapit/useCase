@@ -1,17 +1,21 @@
 # useCase
 Software Engineering practise useCase Diagram using starUML
-### Content
+## Content
 ```
-## Banking Application
+Banking Application
+E-commerce Application
 ```
+
+### Banking Application
+
 - UseCase Diagram (banking.jpeg)
 - Activity Diagram 
 
-## E-commerce Application
-```
+### E-commerce
+
 - UseCase Diagram
 - Activity Diagram
 - Sequence Diagram
 - Class Diagram
 
-```
+
